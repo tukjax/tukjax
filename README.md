@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tukjax
-- 👀 I’m interested in template
-- 🌱 I’m currently learning template
-- 💞️ I’m looking to collaborate on template
-- 📫 How to reach me template
+- here is Frank AKA tukjax
+- interested in distributed system(currently learning into it) , programing language and design pattern.
 
 <!---
 tukjax/tukjax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
