@@ -1,8 +1,8 @@
-- here is Frank AKA tukjax
+- here is Frank 
 - interested in distributed system(currently learning into it) , programing language and design pattern.
 
 
-你可以通过访问我的博客了解我 [Frank's Blog](https://tukjax.github.io)
+ 
 
 <!---
 tukjax/tukjax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
