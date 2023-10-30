@@ -1,4 +1,3 @@
-- here is Frank 
 - interested in distributed system(currently learning into it) , programing language and design pattern.
 
 
